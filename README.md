@@ -1,2 +1,0 @@
-# vityarti.codingcsa
-vityarti coding
